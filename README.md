@@ -55,4 +55,4 @@ Thanks to the React Native community for their support and resources that made t
 ### Notes:
 - Replace `yourusername` in the clone command with your actual GitHub username.
 - Ensure that the `LICENSE` file is present in your repository if you mention it in the License section.
-- You can customize the content further based on your preferences or additional features of the app [[😀]](https://github.com/MSMITH71910/FocusTime).
+- You can customize the content further based on your preferences or additional features of the app [[😀]](https://github.com/MSMITH71910/FocusTime-).
