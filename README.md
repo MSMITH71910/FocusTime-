@@ -1,3 +1,8 @@
+> A simple Focus Time App in JavScript
+
+
+![App Screenshot](FocusTimeApp.png)
+
 # FocusTime
 
 ## Overview
